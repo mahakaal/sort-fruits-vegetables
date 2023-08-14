@@ -1,5 +1,13 @@
 # 🍎🥕 Fruits and Vegetables
 
+## INSTRUCTIONS
+please run before running the tests.
+```
+composer update
+```
+
+At the moment there's no controller o command. I've set tests to show all the functionalities
+
 ## 🎯 Goal
 We want to build a service which will take a `request.json` and:
 * Process the file and create two separate collections for `Fruits` and `Vegetables`
